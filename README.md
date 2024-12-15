@@ -1,2 +1,1 @@
-# adamb2088.github.io
- 
+The website can be eaily navigated through using the navbar at the top of the page. The three sections of my website give the user an indroductio to myself, a brief paragraph about some of my previous projects, my future goals, and a contact me where the user can send a message to get in contact with me. 
